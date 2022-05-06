@@ -1,0 +1,1 @@
+This algorithm takes a function, lower limit guess, upper limit guess, desired relative error value and the maximum number of iterations to use as inputs. With these values, the algorithm uses the false position method to locate the root of the function. It outputs the root, the function used, the approximate relative error and the number of iterations used.   
