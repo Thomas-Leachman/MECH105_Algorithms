@@ -1,0 +1,1 @@
+This algorithm takes a matrix (any size) as the input and returns a matrix where the value of each element in the first row is the number of the column, the value of each elemnt in the first column is the number of the row, and the rest of the matrix is filled with an element that has a value equal to the sum of the element above it and the one to its left. 
