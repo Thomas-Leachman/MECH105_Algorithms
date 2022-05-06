@@ -1,0 +1,1 @@
+This file takes an x and y matrix as inputs, sorts the outlier data out of the inputs, and then computes the linear regression equation as well as the R^2 value. It ouputs the new x matrix, new y matrix, slope and intercept of the linear regression equation and the R^2 value.  
