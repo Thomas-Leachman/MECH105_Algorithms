@@ -1,0 +1,1 @@
+This algorithm takes a coefficient matrix as the input, it then determines the LU factorization of the square matrix while using pivoting. It then outputs the lower triangular matrix, the upper triangular matrix and the permutation matrix. 
